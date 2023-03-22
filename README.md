@@ -16,3 +16,7 @@ To view the website, visit https://jeremiahejensen04.github.io/Module-1-Challeng
 ## License
 
 Please refer to the LICENSE in the repo.
+
+## Credits
+
+Original code found at https://github.com/coding-boot-camp/urban-octo-telegram
